@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://raw.githubusercontent.com/Shad0wL3g3nd/Shad0wL3g3nd/main/PFP.jpg"  />
-
 ###
 
 <div align="left">
